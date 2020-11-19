@@ -13,7 +13,7 @@
 
 	<properties>
 		<!-- Last Hibernate 5.x version that doesn't break stored procedure support on HSQLDB -->
-		<hibernate.version>5.0.7.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 	</properties>
 
 	<dependencies>
